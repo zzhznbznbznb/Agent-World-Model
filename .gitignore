@@ -1,1 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Ignore this image
 /96b0eca4ec533dd5c58f1cbc88814450.jpg
